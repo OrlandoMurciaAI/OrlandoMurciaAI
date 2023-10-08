@@ -1,5 +1,7 @@
 <h2 align="left">Hi there! I'm Orlando Murcia P. an Software Engineer who loves AI</h2>
 
+<p> I have a deep passion for continually expanding my knowledge in the ever-evolving world of technology. My insatiable curiosity drives me to explore the latest advancements and trends, always seeking opportunities to apply them in the creation of scalable solutions with a profound impact.  </p>
+
 ###
 
 <div align="center">
