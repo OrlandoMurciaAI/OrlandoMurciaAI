@@ -12,10 +12,12 @@
 ###
 
 
+<h3> Favorite technologies </h3>
 
 ###
-<h3> Favorite technologies </h3>
+
 <div align="left">
+  <a>
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="30" alt="SQL logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -27,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> 
+  </a>
 </div>
 
 ###
